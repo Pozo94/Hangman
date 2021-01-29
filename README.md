@@ -1,2 +1,2 @@
 # Hangman
-Simple console hangman game rewritten from java. 
+Simple console hangman game made in java and then rewriten to C#. 
